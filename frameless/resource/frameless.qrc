@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/window-bar">
+        <file alias="close_light">window-bar/close_light.svg</file>
+        <file alias="fullscreen_light">window-bar/fullscreen_light.svg</file>
+        <file alias="maximize_light">window-bar/maximize_light.svg</file>
+        <file alias="minimize_light">window-bar/minimize_light.svg</file>
+        <file alias="restore_light">window-bar/restore_light.svg</file>
+        <file alias="more-line_light">window-bar/more-line_light.svg</file>
+        <file alias="pin_light">window-bar/pin_light.svg</file>
+        <file alias="pin-fill_light">window-bar/pin-fill_light.svg</file>
+        <file alias="close_dark">window-bar/close_dark.svg</file>
+        <file alias="fullscreen_dark">window-bar/fullscreen_dark.svg</file>
+        <file alias="maximize_dark">window-bar/maximize_dark.svg</file>
+        <file alias="minimize_dark">window-bar/minimize_dark.svg</file>
+        <file alias="restore_dark">window-bar/restore_dark.svg</file>
+        <file alias="more-line_dark">window-bar/more-line_dark.svg</file>
+        <file alias="pin_dark">window-bar/pin_dark.svg</file>
+        <file alias="pin-fill_dark">window-bar/pin-fill_dark.svg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="app">icon/app.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file alias="light">style/light-style.qss</file>
+        <file alias="dark">style/dark-style.qss</file>
+    </qresource>
+
+</RCC>
